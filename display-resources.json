@@ -1,0 +1,14 @@
+{
+  "display_resources": {
+    "model": "{pico_tracker_assets}pico_motion_tracker",
+    "icons": {
+      "DeviceReady": "{pico_tracker_assets}/icons/tracker_status_ready@2x.png",
+      "DeviceSearching": "{pico_tracker_assets}/icons/tracker_status_searching@2x.gif",
+      "DeviceStandby": "{pico_tracker_assets}/icons/tracker_status_standby@2x.png",
+      "DeviceOff": "{pico_tracker_assets}/icons/tracker_status_off@2x.png",
+      "DeviceNotReady": "{pico_tracker_assets}/icons/tracker_status_not_ready@2x.png",
+      "DeviceSearchingAlert": "{pico_tracker_assets}/icons/tracker_status_not_ready@2x.png",
+      "DeviceStandbyAlert": "{pico_tracker_assets}/icons/tracker_status_not_ready@2x.png"
+    }
+  }
+}
